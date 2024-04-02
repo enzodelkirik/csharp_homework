@@ -1,0 +1,14 @@
+C:\gb\csharp\homework\csharp_homework\task2\bin\Debug\net8.0\task2.exe
+C:\gb\csharp\homework\csharp_homework\task2\bin\Debug\net8.0\task2.deps.json
+C:\gb\csharp\homework\csharp_homework\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+C:\gb\csharp\homework\csharp_homework\task2\bin\Debug\net8.0\task2.dll
+C:\gb\csharp\homework\csharp_homework\task2\bin\Debug\net8.0\task2.pdb
+C:\gb\csharp\homework\csharp_homework\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\csharp\homework\csharp_homework\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+C:\gb\csharp\homework\csharp_homework\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+C:\gb\csharp\homework\csharp_homework\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+C:\gb\csharp\homework\csharp_homework\task2\obj\Debug\net8.0\task2.dll
+C:\gb\csharp\homework\csharp_homework\task2\obj\Debug\net8.0\refint\task2.dll
+C:\gb\csharp\homework\csharp_homework\task2\obj\Debug\net8.0\task2.pdb
+C:\gb\csharp\homework\csharp_homework\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+C:\gb\csharp\homework\csharp_homework\task2\obj\Debug\net8.0\ref\task2.dll
